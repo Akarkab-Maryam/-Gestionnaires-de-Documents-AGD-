@@ -49,19 +49,14 @@ Ce projet contient plusieurs scripts JavaScript utiles pour la gestion de fichie
   - `archiver` (installer avec `npm install archiver`)
 
 ## Installation
+npm install readline-sync archiver
+Une fois ces bibliothèques installées, vos scripts fonctionneront correctement.
 
-1. Clonez ce dépôt :
-   ```bash
-   git clone <url_du_depot>
-   ```
-2. Accédez au dossier du projet :
-   ```bash
-   cd <nom_du_dossier>
-   ```
-3. Installez les dépendances requises :
-   ```bash
-   npm install
-   ```
+Si tu as un fichier package.jsonou si tu souhaites en créer un, voici comment tu peux initialiser un projet Node.js avec ces dépendances :
+Créez un fichier package.json(si ce n'est pas déjà fait) en exécutant cette commande dans votre terminal à la racine du projet :
+npm init -y
+Installer les dépendances :
+npm install readline-sync archiver
 
 ## Exécution des scripts
 
