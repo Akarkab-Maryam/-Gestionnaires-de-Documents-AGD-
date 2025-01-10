@@ -54,7 +54,9 @@ Une fois ces bibliothèques installées, vos scripts fonctionneront correctement
 
 Si tu as un fichier package.jsonou si tu souhaites en créer un, voici comment tu peux initialiser un projet Node.js avec ces dépendances :
 Créez un fichier package.json(si ce n'est pas déjà fait) en exécutant cette commande dans votre terminal à la racine du projet :
+
 npm init -y
+
 Installer les dépendances :
 npm install readline-sync archiver
 
