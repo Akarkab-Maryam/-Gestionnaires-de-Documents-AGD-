@@ -72,7 +72,10 @@ npm install readline-sync archiver
 
 ![image](https://github.com/user-attachments/assets/ed1b0672-596e-40cb-9300-cf9d0acee556)
 
+![image](https://github.com/user-attachments/assets/0102c256-8b63-4724-9bd0-d82dd92d728e)
+![image](https://github.com/user-attachments/assets/cd6ac3cd-d919-40b3-9ac7-d2b874b37812)
 
+![image](https://github.com/user-attachments/assets/f1b0a66b-1e4f-4437-8ef7-3d0c7fc64ba1)
 
 
 
