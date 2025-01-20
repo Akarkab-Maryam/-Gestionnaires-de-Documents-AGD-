@@ -77,6 +77,8 @@ npm install readline-sync archiver
 
 ![image](https://github.com/user-attachments/assets/f1b0a66b-1e4f-4437-8ef7-3d0c7fc64ba1)
 ![image](https://github.com/user-attachments/assets/4e39e5b1-e88c-4f84-9bf7-c8ec53b97888)
+![image](https://github.com/user-attachments/assets/e6cd5159-d30c-4db1-a7ba-c985df9f53a9)
+
 
 Un fichier Excel avec des boutons pour relier les scripts Node.js aux boutons (j'ai choisi l'interface Excel).
 Remarque : activez le mode développeur sur Excel pour insérer des boutons.
